@@ -165,5 +165,5 @@ sha256sum FILE_NAME
 
 | File | Size | Download |
 |------|------|----------|
-| `x-ui-linux-arm64.tar.gz` | 65.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Roozib/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/x-ui-linux-arm64.tar.gz) |
+| `x-ui-linux-amd64.tar.gz` | 68.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Roozib/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/x-ui-linux-amd64.tar.gz) |
 <!-- RELEASES_END -->
